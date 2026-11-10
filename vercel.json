@@ -6,6 +6,14 @@
         { "key": "Content-Type", "value": "application/json" },
         { "key": "Cache-Control", "value": "no-cache" }
       ]
+    },
+    {
+      "source": "/config.json",
+      "headers": [
+        { "key": "Content-Type", "value": "application/json" },
+        { "key": "Cache-Control", "value": "public, max-age=300" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
     }
   ],
   "rewrites": [

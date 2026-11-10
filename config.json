@@ -1,0 +1,36 @@
+{
+  "wallets": [
+    {
+      "id": "nets",
+      "name": "NETS",
+      "bundleId": "com.nets.mls.reader.sit",
+      "urlScheme": "com.nets.mls.reader.sit://",
+      "appStoreId": "1119766021",
+      "tintColor": "#E80018"
+    },
+    {
+      "id": "dbs",
+      "name": "DBS PayLah!",
+      "bundleId": "com.dbs.sg.dbsmbanking",
+      "urlScheme": "dbspaylah://",
+      "appStoreId": "1068403826",
+      "tintColor": "#AF1125"
+    },
+    {
+      "id": "uob",
+      "name": "UOB TMRW",
+      "bundleId": "com.uob.mighty",
+      "urlScheme": "uob://",
+      "appStoreId": "1049286296",
+      "tintColor": "#0A308F"
+    },
+    {
+      "id": "ocbc",
+      "name": "OCBC Pay",
+      "bundleId": "com.ocbc.mobile",
+      "urlScheme": "ocbc://",
+      "appStoreId": "292506828",
+      "tintColor": "#DE5508"
+    }
+  ]
+}
