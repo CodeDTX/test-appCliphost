@@ -6,7 +6,8 @@
       "bundleId": "com.nets.mls.reader.sit",
       "urlScheme": "netsappsit://",
       "appStoreId": "1119766021",
-      "tintColor": "#E80018"
+      "tintColor": "#E80018",
+      "iconUrl": "https://www.nets.com.sg/wp-content/uploads/2022/02/app-nets.png"
     },
     {
       "id": "dbs",
@@ -14,7 +15,8 @@
       "bundleId": "com.dbs.sg.dbsmbanking",
       "urlScheme": "dbspaylah://",
       "appStoreId": "1068403826",
-      "tintColor": "#AF1125"
+      "tintColor": "#AF1125",
+      "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XWmvUNIoAfZZ1tdTsVoCnVHz6a8UX6YYGWFhY-0VDQ&s=10"
     },
     {
       "id": "uob",
@@ -22,7 +24,8 @@
       "bundleId": "com.uob.mighty",
       "urlScheme": "uob://",
       "appStoreId": "1049286296",
-      "tintColor": "#0A308F"
+      "tintColor": "#0A308F",
+      "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUdcOtKV5P1rs0sBNCFjLCMOHlLTl4-pWIfYAXxdms-DsOV6a96_uLzVV&s=10"
     },
     {
       "id": "ocbc",
@@ -30,7 +33,8 @@
       "bundleId": "com.ocbc.mobile",
       "urlScheme": "ocbc://",
       "appStoreId": "292506828",
-      "tintColor": "#DE5508"
+      "tintColor": "#DE5508",
+      "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWCbRV7_uiRZb24T8e7gXehJl_FwEIJBF5LesaAHLvg&s"
     }
   ]
 }
