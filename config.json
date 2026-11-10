@@ -4,7 +4,7 @@
       "id": "nets",
       "name": "NETS",
       "bundleId": "com.nets.mls.reader.sit",
-      "urlScheme": "com.nets.mls.reader.sit://",
+      "urlScheme": "netsappsit://",
       "appStoreId": "1119766021",
       "tintColor": "#E80018"
     },
