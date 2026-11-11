@@ -7,7 +7,8 @@
       "urlScheme": "netsappsit://",
       "appStoreId": "1119766021",
       "tintColor": "#E80018",
-      "iconUrl": "https://www.nets.com.sg/wp-content/uploads/2022/02/app-nets.png"
+      "iconUrl": "https://www.nets.com.sg/wp-content/uploads/2022/02/app-nets.png",
+      "directUrl": "netsappsit://qrpayload?source=SGQR&index=UAT002&qrpayload=NETSqpay0050123456789311220880011111350361000106tester02083503610303080000120009010D8984049D552FE75E9DCBDD83A0BFEA7A432B13608D9671E208CD5B04E4A4C22&signature=47B43579C07060CF71C84C780A9FBC869B67B88BDD5FB2D4A8E99810234CACC1"
     },
     {
       "id": "dbs",
